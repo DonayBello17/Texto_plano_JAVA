@@ -105,7 +105,7 @@ public class textografico extends javax.swing.JFrame {
 
             // Limpiar el campo para escribir otra tarea
             jTextField1.setText("");
-
+// yo estuve aqui
         } catch (IOException ex) {
             JOptionPane.showMessageDialog(this, "Error al guardar.");
         }
